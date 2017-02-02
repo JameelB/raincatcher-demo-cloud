@@ -25,7 +25,7 @@
     "fh-wfm-mediator": "0.1.0-rc2",
     "fh-wfm-message": "0.0.16-alpha.1",
     "fh-wfm-result": "0.0.17-alpha.2",
-    "fh-wfm-simple-store": "0.1.0",
+    "fh-wfm-simple-store": "0.1.1-alpha.1",
     "fh-wfm-user": "0.3.1-alpha.2",
     "fh-wfm-workflow": "0.0.27-alpha.1",
     "fh-wfm-workorder": "0.0.28-alpha.1",
