@@ -107,7 +107,7 @@
             },
             "mime-types": {
               "version": "2.1.14",
-              "from": "mime-types@>=2.1.7 <2.2.0",
+              "from": "mime-types@>=2.1.13 <2.2.0",
               "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.14.tgz",
               "dependencies": {
                 "mime-db": {
@@ -162,7 +162,7 @@
           "dependencies": {
             "mime-types": {
               "version": "2.1.14",
-              "from": "mime-types@>=2.1.13 <2.2.0",
+              "from": "mime-types@>=2.1.11 <2.2.0",
               "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.14.tgz",
               "dependencies": {
                 "mime-db": {
@@ -191,7 +191,7 @@
         },
         "content-type": {
           "version": "1.0.2",
-          "from": "content-type@>=1.0.1 <1.1.0",
+          "from": "content-type@>=1.0.2 <1.1.0",
           "resolved": "https://registry.npmjs.org/content-type/-/content-type-1.0.2.tgz"
         },
         "cookie": {
@@ -293,7 +293,7 @@
         "proxy-addr": {
           "version": "1.1.3",
           "from": "proxy-addr@>=1.1.2 <1.2.0",
-          "resolved": "https://registry.npmjs.org/proxy-addr/-/proxy-addr-1.1.3.tgz",
+          "resolved": "http://npm.skunkhenry.com/proxy-addr/-/proxy-addr-1.1.3.tgz",
           "dependencies": {
             "forwarded": {
               "version": "0.1.0",
@@ -303,7 +303,7 @@
             "ipaddr.js": {
               "version": "1.2.0",
               "from": "ipaddr.js@1.2.0",
-              "resolved": "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.2.0.tgz"
+              "resolved": "http://npm.skunkhenry.com/ipaddr.js/-/ipaddr.js-1.2.0.tgz"
             }
           }
         },
@@ -414,7 +414,7 @@
         },
         "type-is": {
           "version": "1.6.14",
-          "from": "type-is@>=1.6.11 <1.7.0",
+          "from": "type-is@>=1.6.13 <1.7.0",
           "resolved": "https://registry.npmjs.org/type-is/-/type-is-1.6.14.tgz",
           "dependencies": {
             "media-typer": {
@@ -424,7 +424,7 @@
             },
             "mime-types": {
               "version": "2.1.14",
-              "from": "mime-types@>=2.1.13 <2.2.0",
+              "from": "mime-types@>=2.1.11 <2.2.0",
               "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.14.tgz",
               "dependencies": {
                 "mime-db": {
@@ -2229,6 +2229,7 @@
     "fh-wfm-file": {
       "version": "0.0.8-alpha.1",
       "from": "fh-wfm-file@0.0.8-alpha.1",
+      "resolved": "https://registry.npmjs.org/fh-wfm-file/-/fh-wfm-file-0.0.8-alpha.1.tgz",
       "dependencies": {
         "base64-stream": {
           "version": "0.1.3",
@@ -2493,7 +2494,7 @@
             },
             "xtend": {
               "version": "4.0.1",
-              "from": "xtend@>=4.0.0 <4.1.0",
+              "from": "xtend@>=4.0.0 <5.0.0",
               "resolved": "https://registry.npmjs.org/xtend/-/xtend-4.0.1.tgz"
             }
           }
@@ -2520,6 +2521,7 @@
     "fh-wfm-message": {
       "version": "0.0.16-alpha.2",
       "from": "fh-wfm-message@0.0.16-alpha.2",
+      "resolved": "https://registry.npmjs.org/fh-wfm-message/-/fh-wfm-message-0.0.16-alpha.2.tgz",
       "dependencies": {
         "angular-messages": {
           "version": "1.5.3",
@@ -2553,6 +2555,7 @@
     "fh-wfm-result": {
       "version": "0.0.17-alpha.3",
       "from": "fh-wfm-result@0.0.17-alpha.3",
+      "resolved": "https://registry.npmjs.org/fh-wfm-result/-/fh-wfm-result-0.0.17-alpha.3.tgz",
       "dependencies": {
         "angular-messages": {
           "version": "1.5.3",
@@ -2591,8 +2594,9 @@
       }
     },
     "fh-wfm-user": {
-      "version": "0.3.1-alpha.4",
-      "from": "fh-wfm-user@0.3.1-alpha.4",
+      "version": "0.3.1-alpha.5",
+      "from": "fh-wfm-user@0.3.1-alpha.5",
+      "resolved": "https://registry.npmjs.org/fh-wfm-user/-/fh-wfm-user-0.3.1-alpha.5.tgz",
       "dependencies": {
         "connect-mongo": {
           "version": "1.3.2",
@@ -4524,7 +4528,7 @@
         "redis": {
           "version": "2.6.5",
           "from": "redis@>=2.6.3 <3.0.0",
-          "resolved": "https://registry.npmjs.org/redis/-/redis-2.6.5.tgz",
+          "resolved": "http://npm.skunkhenry.com/redis/-/redis-2.6.5.tgz",
           "dependencies": {
             "double-ended-queue": {
               "version": "2.1.0-0",
@@ -4553,6 +4557,7 @@
     "fh-wfm-workflow": {
       "version": "0.0.27-alpha.2",
       "from": "fh-wfm-workflow@0.0.27-alpha.2",
+      "resolved": "https://registry.npmjs.org/fh-wfm-workflow/-/fh-wfm-workflow-0.0.27-alpha.2.tgz",
       "dependencies": {
         "fh-wfm-sync": {
           "version": "0.0.16",
@@ -4576,6 +4581,7 @@
     "fh-wfm-workorder": {
       "version": "0.0.28-alpha.2",
       "from": "fh-wfm-workorder@0.0.28-alpha.2",
+      "resolved": "https://registry.npmjs.org/fh-wfm-workorder/-/fh-wfm-workorder-0.0.28-alpha.2.tgz",
       "dependencies": {
         "angular-messages": {
           "version": "1.5.3",
@@ -4622,9 +4628,9 @@
           "resolved": "https://registry.npmjs.org/aws-sign2/-/aws-sign2-0.6.0.tgz"
         },
         "aws4": {
-          "version": "1.5.0",
+          "version": "1.6.0",
           "from": "aws4@>=1.2.1 <2.0.0",
-          "resolved": "https://registry.npmjs.org/aws4/-/aws4-1.5.0.tgz"
+          "resolved": "https://registry.npmjs.org/aws4/-/aws4-1.6.0.tgz"
         },
         "caseless": {
           "version": "0.11.0",
